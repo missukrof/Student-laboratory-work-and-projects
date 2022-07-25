@@ -1,0 +1,20 @@
+The first rule. The arithmetic mean threshold classification:
+Positive - 1093 - 11.25%
+Neutral - 7989 - 82.21%
+Negative - 636 - 6.54%
+
+The second rule. The classification by the proportion of words of each type in tweets:
+Positive - 928 - 9.55%
+Neutral - 8168 - 84.05%
+Negative - 622 - 6.4%
+
+The third rule. The classification based on the TF-IDF metric:
+Positive - 864 - 8.89%
+Neutral - 8096 - 83.31%
+Negative - 758 - 7.8%
+
+The fourth rule. The arithmetic classification with the amplification of tonality due to auxiliary words:
+Positive - 1293 - 13.31%
+Neutral - 7701 - 79.24%
+Negative - 724 - 7.45%
+
